@@ -1,1 +1,1 @@
-🖐�Hi there
+🖐Hi there
