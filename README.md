@@ -1,4 +1,4 @@
-## 🖐Hi Songhyeon's GitHub
+#### 🖐Hi Songhyeon's GitHub
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhits.seeyoufarm.com%2Fshyeon4643&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,7 +9,7 @@
 </div>
 
  
-### Skill
+#### Skill
 <div style="display:flex;">
  <div>
 <p style="font-size:25px; font-weight: bold"> BackEnd</p>
