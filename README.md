@@ -10,6 +10,7 @@
 
  
 <h3>Skill</h3> 
+<div>
 <p style="font-size:25px; font-weight: bold"> BackEnd</p>
 <img src="https://img.shields.io/badge/SPRING-80ea6e?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-826100?style=flat&logo=Java&logoColor=white"/>
@@ -20,7 +21,7 @@
 <p style="font-size:25px; font-weight: bold"> FrontEnd</p>
 <img src="https://img.shields.io/badge/REACT-61dafb?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css&logoColor=white"/>
 </div>
  
 </div>
