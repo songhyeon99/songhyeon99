@@ -12,7 +12,7 @@
 
  
 ### Skill
-<div>
+<div style="display:flex;">
 <p style="font-size:25px; font-weight: bold"> BackEnd</p>
 <img src="https://img.shields.io/badge/SPRING-80ea6e?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-4479a1?style=flat&logo=JAVA&logoColor=white"/>
