@@ -21,10 +21,10 @@
 </div>
  
  <div>
-<p style="font-size:25px; font-weight: bold"> Tool</p>
-<img src="https://img.shields.io/badge/NOTION?style=flat&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/GITHUB?style=flat&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/SLACK?style=flat&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/FIGMA?style=flat&logo=Figma&logoColor=white">
+<p style="font-size:25px; font-weight: bold"> Tools</p>
+<img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=flat&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SLACK-000000?style=flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-000000?style=flat&logo=Figma&logoColor=white"/>
 
 </div>
