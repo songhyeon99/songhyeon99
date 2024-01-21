@@ -24,7 +24,7 @@
 <p style="font-size:25px; font-weight: bold"> Tools</p>
 <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-000000?style=flat&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SLACK-000000?style=flat&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/FIGMA-000000?style=flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/SLACK-4a164b?style=flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-f24d1d?style=flat&logo=Figma&logoColor=white"/>
 
 </div>
