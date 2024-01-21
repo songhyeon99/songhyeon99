@@ -4,7 +4,7 @@
 
 
  
-<h3>Stacks</h3> 
+<h3>Skills</h3> 
 
 <div>
 <p style="font-size:25px; font-weight: bold"> BackEnd</p>
@@ -20,4 +20,11 @@
 <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css&logoColor=white"/>
 </div>
  
+ <div>
+<p style="font-size:25px; font-weight: bold"> Tool</p>
+<img alt="Static Badge" src="https://img.shields.io/badge/notion?style=flat&logo=Notion&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/github?style=flat&logo=Github&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/slack?style=flat&logo=Slack&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/figma?style=flat&logo=Figma&logoColor=white">
+
 </div>
